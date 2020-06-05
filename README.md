@@ -4,7 +4,7 @@ I decided to update TeleDark's Sugimori stickers in here.
 
 ## Use
 Add this to your PokeAlarm monster's alarm:
-`"sticker_url":"https://raw.githubusercontent.com/IzLuis/TeleStickers/master/pokemon_icon_<mon_id_3>_<form_id_2>.webp"`
+`"sticker_url":"https://raw.githubusercontent.com/IzLuis/TeleStickers/master/Mons/pokemon_icon_<mon_id_3>_<form_id_2>.webp"`
 It currently only support Pokémon and it's forms (I suppose it can be used for raid mons too)
 
 ## Credits
